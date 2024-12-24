@@ -30,6 +30,10 @@ mosaic-it <INPUT_IMAGE_PATH> [-i <MOSAIC_INTENSITY>] [-o <OUTPUT_IMAGE_PATH>]
 
 Use `mosaic-it --help` to see more commands.
 
+In the region selection window, select a region and then press `enter` or `space` to apply the mosaic effect;
+then you can select other regions to apply the mosaic effect without closing this window.
+Press `enter` or `space` without select any region to stop this procedure and save the processed image.
+
 ### Parameter Default Value
 
 - **Mosaic Intensity:** 10
