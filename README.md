@@ -33,7 +33,14 @@ If so, go to the mentioned folder, allowing you to run the pipx executable direc
 ### Install *mosaic-it*
 Install *mosaic-it* from this Git repository using the following command: 
 ```shell
-pipx install git+https://github.com/https://github.com/OldVincent/MosaicIt.git
+pipx install git+https://github.com/OldVincent/MosaicIt.git
+```
+
+### Uninstall *mosaic-it*
+
+Using the following command to uninstall *mosaic-it*:
+```shell
+pipx uninstall mosaic-it
 ```
 
 ## How It Works
